@@ -1,2 +1,2 @@
 # Sudoku_Solver-Python
-Partially Complete python code for solving sudoku
+Partially Completed python code for solving sudoku
